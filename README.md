@@ -101,3 +101,9 @@ pip install -r requirements.txt
 
 # Open notebooks in Jupyter or VS Code
 jupyter notebook
+🧑‍💻 Author
+
+Vivek
+B.Tech, Galgotias University | Aspiring Data Analyst
+📫 www.linkedin.com/in/vivek-kumar-649130285 | 📧 vivek.analyst.07@gmail.com
+
