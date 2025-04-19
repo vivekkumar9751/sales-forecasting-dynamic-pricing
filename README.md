@@ -89,7 +89,7 @@ A retail chain wants to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/sales-forecasting-dynamic-pricing.git
+git clone https://github.com/vivekkumar9751/sales-forecasting-dynamic-pricing.git
 cd sales-forecasting-dynamic-pricing
 
 # (Optional) Create virtual environment
